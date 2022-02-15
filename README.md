@@ -10,19 +10,19 @@ We have used this program to make API calls using the "Request" library to https
 
 ### Dependencies
 
-* Python 3.6+
-* Pandas
-* Requests
-* Json
-* Windows 10
+* **Python 3.6+**
+* **Pandas**
+* **Requests**
+* **Json**
+* **Windows 10**
 
 ### Installing
 
 * You can install the latest version of Python by navigating to this link: https://www.python.org/
 * For installing the required libraries for Python, execute these commands in a terminal:
-    * pip install pandas
-    * pip install requests
-    * Json is included natively!
+    * **pip install pandas**
+    * **pip install requests**
+    * **Json is included natively!**
 
 ### Executing program
 
